@@ -1,5 +1,6 @@
 # SocialSync_Power
 Data Processing scripts for the analysis that accompanies: Fitzpatrick, et al, *Alpha band signatures of social synchrony*.
+This was developed and run on version EEGLAB 13.5.4b (running in Matlab 2016b on a MacBook Pro running the OSX 10.12.6 operating system). Other combinations of EEGLAB and MATLAB versions have not been tested.
 
 ## Workflow
 1. Acquire Data
